@@ -1,5 +1,5 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86c957b8-610c-412b-83f4-de9e6e5910dd" /> Skills and Interests
-My proof of completion for the "Skills and Interests" short course, including test scores and my STAR method comment on the material, is contained in this repository.
+My proof of completion for the "Skills and Interests" short course, including test scores and my STAR method comment on the material, are contained in this repository.
 
 ## The SKILLS AND INTERESTS course covered topics which fall under the breakdown below.
 - **Skills:** Your strengths are acquired skills and abilities that can be enhanced through practice are discussed here.
