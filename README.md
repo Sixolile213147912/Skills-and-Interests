@@ -2,11 +2,11 @@
 My proof of completion for the "Skills and Interests" short course, including test scores and my STAR method comment on the material, is contained in this repository.
 
 ## The SKILLS AND INTERESTS Course covered topics which fall under the breakdown below.
-- **Skills:** Your strengths are acquired skills and abilities that can be enhanced through practice. 
+- **Skills:** Your strengths are acquired skills and abilities that can be enhanced through practice are discussed here.
 
 Examples include technical abilities (such as graphic design and programming), soft talents (such as flexibility, time management, and communication), as well as use a certain tool or piece of equipment. You develop these by means of training and education initiatives, workplace experience, as well as through activities of daily life.
 
-- **Interests:** These can be described as your favorite things and areas of passion. They are a reflection of who you are and what you enjoy.
+- **Interests:** This section teaches that interests can be described as your favorite things and areas of passion. They are a reflection of who you are and what you enjoy.
 
 Taking part in sports, volunteering for a cause, playing an instrument, or pursuing pastimes like coding or art are a few examples. They are normally recognised as or by being done for enjoyment.
 
