@@ -14,10 +14,10 @@ Taking part in sports, volunteering for a cause, playing an instrument, or pursu
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/edadc95f-94c3-4def-a417-d142d2d63be2" />
 
 ### Reflection: <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0a7d2c8b-6444-43b3-8d4a-be93c09e3d55" /> Technique
-**Situation**: All 3rd year CPUT IT students were tasked with completing the Skills and Interests course, as part of the Project Presentation 3 module.
+**Situation:** All 3rd year CPUT IT students were tasked with completing the Skills and Interests course, as part of the Project Presentation 3 module.
 
-**Task**: My goal was to go through the course content and complete the related assesments by or before the due date.
+**Task:** My goal was to go through the course content and complete the related assesments by or before the due date.
 
-**Action**: I took the time to go through the course content, and completed the related assesments in time.
+**Action:** I took the time to go through the course content, and completed the related assesments in time.
 
-**Result**: Skills have a significant impact on a person's professional decisions. I can now clearly see the contrasts in interests, abilities, and values. It's also important for your skills to match the career you want to pursue, and vice versa.
+**Result:** Skills have a significant impact on a person's professional decisions. I can now clearly see the contrasts in interests, abilities, and values. It's also important for your skills to match the career you want to pursue, and vice versa.
